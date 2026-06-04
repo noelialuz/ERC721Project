@@ -1,0 +1,12 @@
+{
+    "name": "None NFT 1",
+    "description": "NFT Collection for theoretical projects",
+    "image": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "1"
+      }
+    ]
+  }
